@@ -10,7 +10,7 @@
 
 *A state-of-the-art machine learning pipeline for predicting NYC weather trends with advanced feature engineering and ensemble modeling*
 
-[🚀 Quick Start](#quick-start) • [📊 Results](#results) • [🔬 Features](#features) • [📈 Visualizations](#visualizations) • [🛠️ Installation](#installation)
+[🚀 Quick Start](#-quick-start) • [📊 Results](#-results) • [🔬 Features](#-features) • [📈 Visualizations](#-visualizations) • [🛠️ Installation](#%EF%B8%8F-installation)
 
 </div>
 
