@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.13.5-blue.svg)](https://python.org)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7.1-orange.svg)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-3.0.3-green.svg)](https://xgboost.ai)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 [![Accuracy](https://img.shields.io/badge/Best%20Model%20R²-87.4%25-brightgreen.svg)](#results)
 
 *A state-of-the-art machine learning pipeline for predicting NYC weather trends with advanced feature engineering and ensemble modeling*
@@ -320,14 +320,21 @@ models_config = {
 
 ## 📚 Documentation
 
-- 📖 **[API Documentation](docs/api.md)** - Detailed function references
-- 🎓 **[Tutorial Notebook](notebooks/tutorial.ipynb)** - Step-by-step guide
-- 🔬 **[Technical Report](docs/technical_report.md)** - Methodology details
-- 📊 **[Performance Analysis](docs/performance.md)** - Benchmarking results
+This project includes comprehensive inline documentation and docstrings. Additional documentation:
+
+- 📖 **Code Documentation** - Detailed docstrings in all Python files
+- 🎓 **README Guide** - Complete setup and usage instructions above
+- 🔬 **Technical Details** - Advanced ML pipeline implementation in source code
+- 📊 **Performance Metrics** - Real-time results displayed during execution
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Feel free to:
+
+- 🐛 Report bugs or issues
+- 💡 Suggest new features or improvements
+- 🔧 Submit pull requests with enhancements
+- 📖 Improve documentation
 
 <details>
 <summary><b>🔧 Development Setup</b></summary>
@@ -349,13 +356,16 @@ git push origin feature/amazing-feature
 
 ## 🐛 Issues & Support
 
-- 🐛 **[Report Bugs](issues/new?template=bug_report.md)**
-- 💡 **[Request Features](issues/new?template=feature_request.md)**
-- ❓ **[Get Help](discussions)**
+Need help or found an issue? Here's how to get support:
+
+- 🐛 **Report Bugs**: Open an issue on GitHub describing the problem
+- 💡 **Request Features**: Suggest improvements via GitHub issues
+- ❓ **Get Help**: Contact me via LinkedIn or GitHub
+- 💬 **Discuss**: Start a discussion on the repository
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
 
 ## 🙏 Acknowledgments
 
